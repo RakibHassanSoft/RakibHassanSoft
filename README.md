@@ -21,9 +21,7 @@
   <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 </div>
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; padding: 20px;">
- <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-</div>
+
 
 
 
