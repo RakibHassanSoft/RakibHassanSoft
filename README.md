@@ -71,17 +71,17 @@ In this project, I implemented user roles for user, moderator, and admin functio
   </p>
 </a>
 
-
-
-### [Another Project](link-to-another-project)
-<a href="link-to-another-project" target="_blank" style="text-decoration: none; color: inherit;">
-<!--   <div style="text-align: center; padding: 20px;">
+### [Library](https://voluble-puppy-45b389.netlify.app/)
+<a href="https://github.com/RakibHassanSoft/Library" style="text-align: center; padding: 20px;">
     <img src="https://github.com/mdraibhulislam/mdraibhulislam/blob/main/assets/another-project.png" alt="Another Project Image" style="width: 100%; max-width: 400px;"/>
   </div> -->
   <p style="text-align: center; font-size: 1em;">
-    Another brief description highlighting the key features and your contributions.
+In this project, I implemented user roles for user, librarian, and admin functionalities. The website functions as a library management system, enabling users to borrow and return books
   </p>
 </a>
+
+
+
 
 
 
