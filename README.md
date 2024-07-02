@@ -62,29 +62,38 @@
 ## Projects
 
 ### [Project Name](link-to-project)
-<div style="text-align: center; padding: 20px;">
-  <img src="https://github.com/mdraibhulislam/mdraibhulislam/blob/main/assets/project.png" alt="Project Image" style="width: 100%; max-width: 400px;"/>
-</div>
-<p style="text-align: center; font-size: 1em;">
-  A brief description of the project. What it does, the technologies used, and your role in the project.
-</p>
-
-### [Another Project](link-to-another-project)
-<div style="text-align: center; padding: 20px;">
-  <img src="https://github.com/mdraibhulislam/mdraibhulislam/blob/main/assets/another-project.png" alt="Another Project Image" style="width: 100%; max-width: 400px;"/>
-</div>
-<p style="text-align: center; font-size: 1em;">
-  Another brief description highlighting the key features and your contributions.
-</p>
+<a href="link-to-another-project" target="_blank" style="text-decoration: none; color: inherit;">
+  <div style="text-align: center; padding: 20px;">
+    <img src="https://github.com/mdraibhulislam/mdraibhulislam/blob/main/assets/another-project.png" alt="Another Project Image" style="width: 100%; max-width: 400px;"/>
+  </div>
+  <p style="text-align: center; font-size: 1em;">
+    Another brief description highlighting the key features and your contributions.
+  </p>
+</a>
 
 
 ### [Another Project](link-to-another-project)
-<div style="text-align: center; padding: 20px;">
-  <img src="https://github.com/mdraibhulislam/mdraibhulislam/blob/main/assets/another-project.png" alt="Another Project Image" style="width: 100%; max-width: 400px;"/>
-</div>
-<p style="text-align: center; font-size: 1em;">
-  Another brief description highlighting the key features and your contributions.
-</p>
+<a href="link-to-another-project" target="_blank" style="text-decoration: none; color: inherit;">
+  <div style="text-align: center; padding: 20px;">
+    <img src="https://github.com/mdraibhulislam/mdraibhulislam/blob/main/assets/another-project.png" alt="Another Project Image" style="width: 100%; max-width: 400px;"/>
+  </div>
+  <p style="text-align: center; font-size: 1em;">
+    Another brief description highlighting the key features and your contributions.
+  </p>
+</a>
+
+
+
+### [Another Project](link-to-another-project)
+<a href="link-to-another-project" target="_blank" style="text-decoration: none; color: inherit;">
+  <div style="text-align: center; padding: 20px;">
+    <img src="https://github.com/mdraibhulislam/mdraibhulislam/blob/main/assets/another-project.png" alt="Another Project Image" style="width: 100%; max-width: 400px;"/>
+  </div>
+  <p style="text-align: center; font-size: 1em;">
+    Another brief description highlighting the key features and your contributions.
+  </p>
+</a>
+
 
 ---
 
