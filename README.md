@@ -1,7 +1,7 @@
 # Hi there, I'm Md Raibhul Islam! 👋
 
 <div style="text-align: center;">
-  <img src="[https://i.ibb.co/NxCprby/design-a-modern-and-intuitive-website.jpg](https://i.ibb.co/rcdmrX8/images-12.jpg)" alt="Banner" style="width: 100%; max-width: 800px;"/>
+  <img src="https://i.ibb.co/rcdmrX8/images-12.jpg" alt="Banner" style="width: 100%; max-width: 800px;"/>
 </div>
 
 ## About Me
