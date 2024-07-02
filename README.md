@@ -1,19 +1,23 @@
 # Hi there, I'm Md Raibhul Islam! 👋
 
-![Banner](https://github.com/mdraibhulislam/mdraibhulislam/blob/main/assets/banner.png)
-
-## About Me
-<div align="center">
-  <img src="https://github.com/mdraibhulislam/mdraibhulislam/blob/main/assets/about-me.png" alt="About Me" width="600"/>
+<div style="text-align: center;">
+  <img src="https://i.ibb.co/NxCprby/design-a-modern-and-intuitive-website.jpg" alt="Banner" style="width: 100%; max-width: 800px;"/>
 </div>
 
-I'm a passionate web developer focused on creating responsive and dynamic web applications. I enjoy learning new technologies and continuously improving my coding skills. My primary expertise lies in frontend development, but I also have experience with backend technologies.
+## About Me
+<div style="text-align: center; padding: 20px;">
+  <img src="https://github.com/mdraibhulislam/mdraibhulislam/blob/main/assets/about-me.png" alt="About Me" style="width: 100%; max-width: 600px;"/>
+</div>
+
+<p style="text-align: center; font-size: 1.2em; line-height: 1.5;">
+  I'm a passionate web developer focused on creating responsive and dynamic web applications. I enjoy learning new technologies and continuously improving my coding skills. My primary expertise lies in frontend development, but I also have experience with backend technologies.
+</p>
 
 ---
 
 ## Skills
 
-<div align="center">
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; padding: 20px;">
   <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
@@ -35,9 +39,9 @@ I'm a passionate web developer focused on creating responsive and dynamic web ap
 
 ## Current Status
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mdraibhulislam&show_icons=true&theme=radical" alt="Md Raibhul Islam's GitHub stats"/>
-  <img src="https://streak-stats.demolab.com/?user=mdraibhulislam&theme=radical" alt="GitHub Streak"/>
+<div style="text-align: center; padding: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=mdraibhulislam&show_icons=true&theme=radical" alt="Md Raibhul Islam's GitHub stats" style="max-width: 600px;"/>
+  <img src="https://streak-stats.demolab.com/?user=mdraibhulislam&theme=radical" alt="GitHub Streak" style="max-width: 600px;"/>
 </div>
 
 ---
@@ -45,31 +49,42 @@ I'm a passionate web developer focused on creating responsive and dynamic web ap
 ## Projects
 
 ### [Project Name](link-to-project)
-<div align="center">
-  <img src="https://github.com/mdraibhulislam/mdraibhulislam/blob/main/assets/project.png" alt="Project Image" width="400"/>
+<div style="text-align: center; padding: 20px;">
+  <img src="https://github.com/mdraibhulislam/mdraibhulislam/blob/main/assets/project.png" alt="Project Image" style="width: 100%; max-width: 400px;"/>
 </div>
-A brief description of the project. What it does, the technologies used, and your role in the project.
+<p style="text-align: center; font-size: 1em;">
+  A brief description of the project. What it does, the technologies used, and your role in the project.
+</p>
 
 ### [Another Project](link-to-another-project)
-<div align="center">
-  <img src="https://github.com/mdraibhulislam/mdraibhulislam/blob/main/assets/another-project.png" alt="Another Project Image" width="400"/>
+<div style="text-align: center; padding: 20px;">
+  <img src="https://github.com/mdraibhulislam/mdraibhulislam/blob/main/assets/another-project.png" alt="Another Project Image" style="width: 100%; max-width: 400px;"/>
 </div>
-Another brief description highlighting the key features and your contributions.
+<p style="text-align: center; font-size: 1em;">
+  Another brief description highlighting the key features and your contributions.
+</p>
 
 ---
 
 ## Contact
 
-<div align="center">
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://www.linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://github.com/mdraibhulislam"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<div style="text-align: center; padding: 20px;">
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/yourprofile">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/mdraibhulislam">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 </div>
 
 ---
 
 ## Fun Facts
-- 🌱 I’m currently learning about advanced TypeScript features.
-- 🎨 In my free time, I enjoy designing unique UI/UX for web applications.
-- 🚴 I love cycling and exploring new places.
-- 
+<p style="text-align: center; font-size: 1.2em; line-height: 1.5;">
+  🌱 I’m currently learning about advanced TypeScript features.<br>
+  🎨 In my free time, I enjoy designing unique UI/UX for web applications.<br>
+  🚴 I love cycling and exploring new places.
+</p>
