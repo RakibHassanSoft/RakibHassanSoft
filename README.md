@@ -15,7 +15,7 @@
 
 <div style="display: flex; justify-content: center; gap: 20px; padding: 20px;">
   <img src="https://github-readme-stats.vercel.app/api?username=RakibHassanSoft&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="RakibHassanSoft's Stats" style="width: 48%; max-width: 600px;"/>
-  <img src="https://streak-stats.demolab.com/?user=mdraibhulislam&theme=radical" alt="GitHub Streak" style="width: 48%; max-width: 600px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RakibHassanSoft&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="GitHub Streak" style="width: 48%; max-width: 600px;"/>
 </div>
 
 <div style="text-align: center; padding: 20px;">
