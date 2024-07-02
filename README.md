@@ -11,6 +11,21 @@
 </p>
 
 ---
+## Languages
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; padding: 20px;">
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> 
+<img src="https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+</div>
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; padding: 20px;">
+ <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+</div>
+
+
 
 ## Skills
 
@@ -73,8 +88,8 @@ In this project, I implemented user roles for user, moderator, and admin functio
 
 ### [Library](https://voluble-puppy-45b389.netlify.app/)
 <a href="https://github.com/RakibHassanSoft/Library" style="text-align: center; padding: 20px;">
-    <img src="https://github.com/mdraibhulislam/mdraibhulislam/blob/main/assets/another-project.png" alt="Another Project Image" style="width: 100%; max-width: 400px;"/>
-  </div> -->
+<!--     <img src="https://github.com/mdraibhulislam/mdraibhulislam/blob/main/assets/another-project.png" alt="Another Project Image" style="width: 100%; max-width: 400px;"/>
+  </div> --> 
   <p style="text-align: center; font-size: 1em;">
 In this project, I implemented user roles for user, librarian, and admin functionalities. The website functions as a library management system, enabling users to borrow and return books
   </p>
@@ -86,13 +101,13 @@ In this project, I implemented user roles for user, librarian, and admin functio
 
 
 
-### [Another Project](link-to-another-project)
-<a href="link-to-another-project" target="_blank" style="text-decoration: none; color: inherit;">
-  <div style="text-align: center; padding: 20px;">
+### [ Project](https://delightful-nougat-f2595c.netlify.app/)
+<a href="https://github.com/RakibHassanSoft/Artist_website" target="_blank" style="text-decoration: none; color: inherit;">
+<!--   <div style="text-align: center; padding: 20px;">
     <img src="https://github.com/mdraibhulislam/mdraibhulislam/blob/main/assets/another-project.png" alt="Another Project Image" style="width: 100%; max-width: 400px;"/>
-  </div>
+  </div> -->
   <p style="text-align: center; font-size: 1em;">
-    Another brief description highlighting the key features and your contributions.
+    In this project, I implemented features tailored for art enthusiasts and creators. The "Art and Craft" website is a comprehensive platform for showcasing and exploring  a wide array of artistic creations. Users can browse through various categories of art, ranging from paintings and sculptures to digital art and handicrafts.
   </p>
 </a>
 
