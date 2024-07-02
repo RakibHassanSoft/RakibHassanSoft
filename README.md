@@ -5,7 +5,7 @@
 </div>
 
 ## About Me
-<div style="text-align: center; padding: 20px;">
+<div style="text-align: center; padding: 20px; width:300px">
   <img src="https://i.ibb.co/FYYm113/Firefly-20240613131632-2.png" alt="About Me" style="width: 100%; max-width: 600px;"/>
 </div>
 
