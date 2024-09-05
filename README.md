@@ -112,22 +112,6 @@ I’m passionate about delivering high-quality, efficient solutions and enjoy co
 </div>
 
 
-
-
-
-
-
-### [ Project](https://delightful-nougat-f2595c.netlify.app/)
-<a href="https://github.com/RakibHassanSoft/Artist_website" target="_blank" style="text-decoration: none; color: inherit;">
-<!--   <div style="text-align: center; padding: 20px;">
-    <img src="https://github.com/mdraibhulislam/mdraibhulislam/blob/main/assets/another-project.png" alt="Another Project Image" style="width: 100%; max-width: 400px;"/>
-  </div> -->
-  <p style="text-align: center; font-size: 1em;">
-    In this project, I implemented features tailored for art enthusiasts and creators. The "Art and Craft" website is a comprehensive platform for showcasing and exploring  a wide array of artistic creations. Users can browse through various categories of art, ranging from paintings and sculptures to digital art and handicrafts.
-  </p>
-</a>
-
-
 ---
 
 ## Contact
