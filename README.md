@@ -1,15 +1,14 @@
 # Md Raibhul Islam!
 
-<div style="text-align: center;">
-  <img src="https://i.ibb.co/517DLYm/mern.jpg" alt="Banner" style="width: 100%; max-width: 800px;"/>
-</div>
-
 ## About Me
 
 <p style="text-align: center; font-size: 1.2em; line-height: 1.5;">
   I'm a passionate web developer focused on creating responsive and dynamic web applications. I enjoy learning new technologies and continuously improving my coding skills. My primary expertise lies in frontend development, but I also have experience with backend technologies.
 </p>
 
+<div style="text-align: center;">
+  <img src="https://i.ibb.co/517DLYm/mern.jpg" alt="Banner" style="width: 100%; max-width: 800px;"/>
+</div>
 ---
 ## Overall in GitHub 
 
