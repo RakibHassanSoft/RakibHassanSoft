@@ -13,7 +13,7 @@ I’m passionate about delivering high-quality, efficient solutions and enjoy co
 <div style="text-align: center;">
   <img src="https://i.ibb.co/517DLYm/mern.jpg" alt="Banner" style="width: 100%; max-width: 800px;"/>
 </div>
----
+
 ## Overall in GitHub 
 
 <div style="text-align: center; padding: 20px;">
