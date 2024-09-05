@@ -47,34 +47,47 @@ I’m passionate about delivering high-quality, efficient solutions and enjoy co
 
 ## Current Status
 
-### Competitive programming 
-<img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
+### Competitive Programming
+<div style="text-align: center; padding: 20px;">
+  <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" style="width: 150px; height: 50px;"/>
 </div>
 
-### Web development 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; padding: 20px;">
-  <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node-dot-js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Mongoose-800?style=flat-square&logo=mongoose&logoColor=white"/>
- 
+### Web Development
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; padding: 20px;">
+  <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white" style="width: 150px; height: 50px;"/>
+  <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white" style="width: 150px; height: 50px;"/>
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" style="width: 150px; height: 50px;"/>
+  <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" style="width: 150px; height: 50px;"/>
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" style="width: 150px; height: 50px;"/>
+  <img src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" style="width: 150px; height: 50px;"/>
+  <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" style="width: 150px; height: 50px;"/>
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node-dot-js&logoColor=white" style="width: 150px; height: 50px;"/>
+  <img src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white" style="width: 150px; height: 50px;"/>
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" style="width: 150px; height: 50px;"/>
+  <img src="https://img.shields.io/badge/-Mongoose-800?style=flat-square&logo=mongoose&logoColor=white" style="width: 150px; height: 50px;"/>
 </div>
+
 
 
 ---
-
 ## Projects
 
-### Product4u
+### ReSt (Property Selling Platform using MERN)
 <p style="text-align: center; font-size: 1em;">
-  In this project, I implemented user roles for user, moderator, and admin functionalities. The website operates like an app store, allowing users to sell and buy applications.
+  User authentication and authorization (JWT-based) for secure access to the platform. 
+</p>
+<div style="text-align: center;">
+  <a href="https://jolly-cassata-ccc5b5.netlify.app/" target="_blank">
+    <button style="padding: 10px 20px; background-color: #4CAF50; color: white; border: none; cursor: pointer;">Live Link</button>
+  </a>
+  <a href="https://github.com/RakibHassanSoft/realStateProject" target="_blank">
+    <button style="padding: 10px 20px; background-color: #333; color: white; border: none; cursor: pointer;">GitHub Link</button>
+  </a>
+</div>
+
+### P4U (Product Selling Platform using MERN)
+<p style="text-align: center; font-size: 1em;">
+  Implemented a responsive product catalog with tag-based searching that dynamically displays matching tags as the user types, similar to Google search. Integrated payment gateways like Stripe and SSL.
 </p>
 <div style="text-align: center;">
   <a href="https://effulgent-platypus-036e0d.netlify.app/" target="_blank">
@@ -85,19 +98,18 @@ I’m passionate about delivering high-quality, efficient solutions and enjoy co
   </a>
 </div>
 
-### Library
+### Art and Craft (Art and Craft Website using MERN)
 <p style="text-align: center; font-size: 1em;">
-  In this project, I implemented user roles for user, librarian, and admin functionalities. The website functions as a library management system, enabling users to borrow and return books.
+  Developed customizable product listings with interactive image galleries, ensuring an engaging and user-friendly experience. Featured artist profiles alongside their portfolios for an artistic presentation.
 </p>
 <div style="text-align: center;">
-  <a href="https://voluble-puppy-45b389.netlify.app/" target="_blank">
+  <a href="https://delightful-nougat-f2595c.netlify.app/" target="_blank">
     <button style="padding: 10px 20px; background-color: #4CAF50; color: white; border: none; cursor: pointer;">Live Link</button>
   </a>
-  <a href="https://github.com/RakibHassanSoft/Library" target="_blank">
+  <a href="https://github.com/RakibHassanSoft/Artist_website" target="_blank">
     <button style="padding: 10px 20px; background-color: #333; color: white; border: none; cursor: pointer;">GitHub Link</button>
   </a>
 </div>
-
 
 
 
