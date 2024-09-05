@@ -3,7 +3,7 @@
 ## About Me
 
 <p style="text-align: center; font-size: 1.2em; line-height: 1.5;">
-  I’m Rakib, a 23-year-old full-stack developer with a strong focus on building responsive and unique websites. I specialize in the MERN stack (MongoDB, Express, React, Node.js) and have extensive experience with frontend technologies like JavaScript, TypeScript, Tailwind, and React. My backend expertise includes creating secure, scalable APIs, integrating JWT authentication, and working with databases like MongoDB and MySQL.
+  I’m Rakib, a 21-year-old full-stack developer with a strong focus on building responsive and unique websites. I specialize in the MERN stack (MongoDB, Express, React, Node.js) and have extensive experience with frontend technologies like JavaScript, TypeScript, Tailwind, and React. My backend expertise includes creating secure, scalable APIs, integrating JWT authentication, and working with databases like MongoDB and MySQL.
  <br/>
 With a background in web development, I’ve successfully completed projects ranging from eCommerce platforms and service provider websites to property-selling platforms. I’m also experienced with technologies like Redux, Firebase, and Next.js, and I’m always exploring new tools to enhance my projects.
  <br/>
