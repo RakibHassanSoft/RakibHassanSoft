@@ -72,24 +72,32 @@ I’m passionate about delivering high-quality, efficient solutions and enjoy co
 
 ## Projects
 
-### [Product4u](https://effulgent-platypus-036e0d.netlify.app/)
-<a href="https://github.com/RakibHassanSoft/Product4u" target="_blank" style="text-decoration: none; color: inherit;">
-<!--   <div style="text-align: center; padding: 20px;">
-    <img src="https://github.com/mdraibhulislam/mdraibhulislam/blob/main/assets/another-project.png" alt="Another Project Image" style="width: 100%; max-width: 400px;"/>
-  </div> -->
-  <p style="text-align: center; font-size: 1em;">
-In this project, I implemented user roles for user, moderator, and admin functionalities. The website operates like an app store, allowing users to sell and buy applications
-  </p>
-</a>
+### Product4u
+<p style="text-align: center; font-size: 1em;">
+  In this project, I implemented user roles for user, moderator, and admin functionalities. The website operates like an app store, allowing users to sell and buy applications.
+</p>
+<div style="text-align: center;">
+  <a href="https://effulgent-platypus-036e0d.netlify.app/" target="_blank">
+    <button style="padding: 10px 20px; background-color: #4CAF50; color: white; border: none; cursor: pointer;">Live Link</button>
+  </a>
+  <a href="https://github.com/RakibHassanSoft/Product4u" target="_blank">
+    <button style="padding: 10px 20px; background-color: #333; color: white; border: none; cursor: pointer;">GitHub Link</button>
+  </a>
+</div>
 
-### [Library](https://voluble-puppy-45b389.netlify.app/)
-<a href="https://github.com/RakibHassanSoft/Library" style="text-align: center; padding: 20px;">
-<!--     <img src="https://github.com/mdraibhulislam/mdraibhulislam/blob/main/assets/another-project.png" alt="Another Project Image" style="width: 100%; max-width: 400px;"/>
-  </div> --> 
-  <p style="text-align: center; font-size: 1em;">
-In this project, I implemented user roles for user, librarian, and admin functionalities. The website functions as a library management system, enabling users to borrow and return books
-  </p>
-</a>
+### Library
+<p style="text-align: center; font-size: 1em;">
+  In this project, I implemented user roles for user, librarian, and admin functionalities. The website functions as a library management system, enabling users to borrow and return books.
+</p>
+<div style="text-align: center;">
+  <a href="https://voluble-puppy-45b389.netlify.app/" target="_blank">
+    <button style="padding: 10px 20px; background-color: #4CAF50; color: white; border: none; cursor: pointer;">Live Link</button>
+  </a>
+  <a href="https://github.com/RakibHassanSoft/Library" target="_blank">
+    <button style="padding: 10px 20px; background-color: #333; color: white; border: none; cursor: pointer;">GitHub Link</button>
+  </a>
+</div>
+
 
 
 
