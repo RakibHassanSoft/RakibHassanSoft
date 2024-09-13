@@ -3,12 +3,19 @@
 ## About Me
 
 <p style="text-align: center; font-size: 1.2em; line-height: 1.5;">
-  I’m Rakib, a 21-year-old full-stack developer with a strong focus on building responsive and unique websites. I specialize in the MERN stack (MongoDB, Express, React, Node.js) and have extensive experience with frontend technologies like JavaScript, TypeScript, Tailwind, and React. My backend expertise includes creating secure, scalable APIs, integrating JWT authentication, and working with databases like MongoDB and MySQL.
- <br/>
-With a background in web development, I’ve successfully completed projects ranging from eCommerce platforms and service provider websites to property-selling platforms. I’m also experienced with technologies like Redux, Firebase, and Next.js, and I’m always exploring new tools to enhance my projects.
- <br/>
-I’m passionate about delivering high-quality, efficient solutions and enjoy collaborating on both frontend and backend development. Whether you need a custom-built web application or a modern, responsive website, I’m here to help bring your vision to life!
+  I’m Rakib, a 23-year-old full-stack developer with a passion for building modern, responsive, and unique websites. My expertise lies in creating seamless web applications using the powerful <strong>MERN stack</strong> (MongoDB, Express, React, Node.js), ensuring both performance and scalability.
+  <br/><br/>
+  Here's what I bring to the table:
+  <ul style="text-align: left; margin-left: 2rem; line-height: 1.8;">
+    <li><strong>Frontend Expertise:</strong> Skilled in <strong>JavaScript, TypeScript, React, and Tailwind CSS</strong>, creating interactive and user-friendly interfaces.</li>
+    <li><strong>Backend Mastery:</strong> Experience in building secure APIs, managing databases with <strong>MongoDB & MySQL</strong>, and implementing <strong>JWT authentication</strong> for enhanced security.</li>
+    <li><strong>Project Accomplishments:</strong> Successfully developed diverse platforms, including eCommerce sites, property-selling solutions, and service provider websites.</li>
+    <li><strong>Technologies:</strong> Comfortable with <strong>Redux, Firebase, Next.js</strong>, and constantly exploring new tools and frameworks.</li>
+  </ul>
+  <br/>
+  I’m driven by the goal of delivering efficient, high-quality solutions. Whether it's a custom web application or a fully responsive website, I’m excited to help bring your vision to life!
 </p>
+
 
 <div style="text-align: center;">
   <img src="https://i.ibb.co/517DLYm/mern.jpg" alt="Banner" style="width: 100%; max-width: 800px;"/>
