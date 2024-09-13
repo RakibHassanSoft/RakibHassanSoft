@@ -25,22 +25,98 @@ I’m passionate about delivering high-quality, efficient solutions and enjoy co
 
 ## Skills
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; padding: 30px; border: 2px solid #333; border-radius: 15px; background-color: #f5f5f5; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
-  <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML" style="border-radius: 8px;"/>
-  <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS" style="border-radius: 8px;"/>
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" style="border-radius: 8px;"/>
-  <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" style="border-radius: 8px;"/>
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" style="border-radius: 8px;"/>
-  <img src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" style="border-radius: 8px;"/>
-  <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" style="border-radius: 8px;"/>
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node-dot-js&logoColor=white" alt="Node.js" style="border-radius: 8px;"/>
-  <img src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" style="border-radius: 8px;"/>
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" style="border-radius: 8px;"/>
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" style="border-radius: 8px;"/>
-  <img src="https://img.shields.io/badge/-Mongoose-800?style=flat-square&logo=mongoose&logoColor=white" alt="Mongoose" style="border-radius: 8px;"/>
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" style="border-radius: 8px;"/>
-  <img src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white" alt="C" style="border-radius: 8px;"/>
-  <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" style="border-radius: 8px;"/>
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; padding: 30px; border: 2px solid #ddd; border-radius: 15px; background-color: #fafafa; box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15); max-width: 1000px; margin: auto;">
+  
+  <!-- HTML Card -->
+  <div style="background: #E34F26; color: white; padding: 20px; border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); text-align: center;">
+    <img src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" style="height: 60px;"/>
+    <h3 style="margin-top: 10px;">HTML</h3>
+  </div>
+
+  <!-- CSS Card -->
+  <div style="background: #1572B6; color: white; padding: 20px; border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); text-align: center;">
+    <img src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" style="height: 60px;"/>
+    <h3 style="margin-top: 10px;">CSS</h3>
+  </div>
+
+  <!-- JavaScript Card -->
+  <div style="background: #F7DF1E; color: black; padding: 20px; border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); text-align: center;">
+    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" style="height: 60px;"/>
+    <h3 style="margin-top: 10px;">JavaScript</h3>
+  </div>
+
+  <!-- TypeScript Card -->
+  <div style="background: #007ACC; color: white; padding: 20px; border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); text-align: center;">
+    <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" style="height: 60px;"/>
+    <h3 style="margin-top: 10px;">TypeScript</h3>
+  </div>
+
+  <!-- React Card -->
+  <div style="background: #61DAFB; color: black; padding: 20px; border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); text-align: center;">
+    <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" style="height: 60px;"/>
+    <h3 style="margin-top: 10px;">React</h3>
+  </div>
+
+  <!-- Tailwind CSS Card -->
+  <div style="background: #38B2AC; color: white; padding: 20px; border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); text-align: center;">
+    <img src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" style="height: 60px;"/>
+    <h3 style="margin-top: 10px;">Tailwind CSS</h3>
+  </div>
+
+  <!-- Bootstrap Card -->
+  <div style="background: #7952B3; color: white; padding: 20px; border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); text-align: center;">
+    <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" style="height: 60px;"/>
+    <h3 style="margin-top: 10px;">Bootstrap</h3>
+  </div>
+
+  <!-- Node.js Card -->
+  <div style="background: #339933; color: white; padding: 20px; border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); text-align: center;">
+    <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white" alt="Node.js" style="height: 60px;"/>
+    <h3 style="margin-top: 10px;">Node.js</h3>
+  </div>
+
+  <!-- Express Card -->
+  <div style="background: #000000; color: white; padding: 20px; border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); text-align: center;">
+    <img src="https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" style="height: 60px;"/>
+    <h3 style="margin-top: 10px;">Express</h3>
+  </div>
+
+  <!-- Python Card -->
+  <div style="background: #3776AB; color: white; padding: 20px; border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); text-align: center;">
+    <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" style="height: 60px;"/>
+    <h3 style="margin-top: 10px;">Python</h3>
+  </div>
+
+  <!-- MongoDB Card -->
+  <div style="background: #47A248; color: white; padding: 20px; border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); text-align: center;">
+    <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" style="height: 60px;"/>
+    <h3 style="margin-top: 10px;">MongoDB</h3>
+  </div>
+
+  <!-- Mongoose Card -->
+  <div style="background: #800000; color: white; padding: 20px; border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); text-align: center;">
+    <img src="https://img.shields.io/badge/-Mongoose-800?style=for-the-badge&logo=mongoose&logoColor=white" alt="Mongoose" style="height: 60px;"/>
+    <h3 style="margin-top: 10px;">Mongoose</h3>
+  </div>
+
+  <!-- MySQL Card -->
+  <div style="background: #4479A1; color: white; padding: 20px; border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); text-align: center;">
+    <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" style="height: 60px;"/>
+    <h3 style="margin-top: 10px;">MySQL</h3>
+  </div>
+
+  <!-- C Card -->
+  <div style="background: #A8B9CC; color: black; padding: 20px; border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); text-align: center;">
+    <img src="https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C" style="height: 60px;"/>
+    <h3 style="margin-top: 10px;">C</h3>
+  </div>
+
+  <!-- C++ Card -->
+  <div style="background: #00599C; color: white; padding: 20px; border-radius: 15px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); text-align: center;">
+    <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" style="height: 60px;"/>
+    <h3 style="margin-top: 10px;">C++</h3>
+  </div>
+
 </div>
 
 
