@@ -25,23 +25,24 @@ I’m passionate about delivering high-quality, efficient solutions and enjoy co
 
 ## Skills
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; padding: 20px;">
-  <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node-dot-js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Mongoose-800?style=flat-square&logo=mongoose&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; padding: 30px; border: 2px solid #333; border-radius: 15px; background-color: #f5f5f5; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);">
+  <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML" style="border-radius: 8px;"/>
+  <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS" style="border-radius: 8px;"/>
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" style="border-radius: 8px;"/>
+  <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" style="border-radius: 8px;"/>
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" style="border-radius: 8px;"/>
+  <img src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" style="border-radius: 8px;"/>
+  <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" style="border-radius: 8px;"/>
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node-dot-js&logoColor=white" alt="Node.js" style="border-radius: 8px;"/>
+  <img src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" style="border-radius: 8px;"/>
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" style="border-radius: 8px;"/>
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" style="border-radius: 8px;"/>
+  <img src="https://img.shields.io/badge/-Mongoose-800?style=flat-square&logo=mongoose&logoColor=white" alt="Mongoose" style="border-radius: 8px;"/>
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" style="border-radius: 8px;"/>
+  <img src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white" alt="C" style="border-radius: 8px;"/>
+  <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" style="border-radius: 8px;"/>
 </div>
+
 
 ---
 
