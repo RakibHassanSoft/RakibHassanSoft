@@ -1,9 +1,9 @@
-<h1  style="text-align: center; "> Md hassan! <h1> 
+<h1  style="text-align: center; "> Rakib hassan<h1> 
 
 ## About Me
 
 <p style="text-align: center; font-size: 1.2em; line-height: 1.5;">
-  I’m Rakib, a 23-year-old full-stack developer with a passion for building modern, responsive, and unique websites. My expertise lies in creating seamless web applications using the powerful <strong>MERN stack</strong> (MongoDB, Express, React, Node.js), ensuring both performance and scalability.
+  I’m Rakib, full-stack developer with a passion for building modern, responsive, and unique websites. My expertise lies in creating seamless web applications using the powerful <strong>MERN stack</strong> (MongoDB, Express, React, Node.js), ensuring both performance and scalability.
   <br/><br/>
   Here's what I bring to the table:
   <ul style="text-align: left; margin-left: 2rem; line-height: 1.8;">
