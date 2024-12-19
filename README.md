@@ -22,7 +22,9 @@
 </div>
 
 ## Overall in GitHub 
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RakibHassanSoft&theme=vue-dark)](https://git.io/streak-stats)
+<div style="text-align: center; padding: 20px;">
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=RakibHassanSoft&theme=vue-dark" alt="GitHub Streak" /></a>
+</div>
 
 
 
