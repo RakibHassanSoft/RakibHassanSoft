@@ -3,18 +3,20 @@
 ## About Me
 
 <p style="text-align: center; font-size: 1.2em; line-height: 1.5;">
-  I’m Rakib, full-stack developer with a passion for building modern, responsive, and unique websites. My expertise lies in creating seamless web applications using the powerful <strong>MERN stack</strong> (MongoDB, Express, React, Node.js), ensuring both performance and scalability.
+  I’m Rakib, a full-stack developer specializing in modern, high-performance web applications. With expertise in <strong>Next.js, Nest.js, GraphQL, and Headless CMS integration</strong>, I build scalable, efficient, and user-friendly digital solutions.
   <br/><br/>
   Here's what I bring to the table:
   <ul style="text-align: left; margin-left: 2rem; line-height: 1.8;">
-    <li><strong>Frontend Expertise:</strong> Skilled in <strong>JavaScript, TypeScript, React, and Tailwind CSS</strong>, creating interactive and user-friendly interfaces.</li>
-    <li><strong>Backend Mastery:</strong> Experience in building secure APIs, managing databases with <strong>MongoDB & MySQL</strong>, and implementing <strong>JWT authentication</strong> for enhanced security.</li>
-    <li><strong>Project Accomplishments:</strong> Successfully developed diverse platforms, including eCommerce sites, property-selling solutions, and service provider websites.</li>
-    <li><strong>Technologies:</strong> Comfortable with <strong>Redux, Firebase, Next.js</strong>, and constantly exploring new tools and frameworks.</li>
+    <li><strong>Frontend Excellence:</strong> Proficient in <strong>React, Next.js, TypeScript, and Tailwind CSS</strong>, ensuring intuitive and responsive UI/UX.</li>
+    <li><strong>Robust Backend Solutions:</strong> Experienced in <strong>Nest.js, Node.js, Prisma, and MongoDB/MySQL</strong> for building secure and scalable APIs.</li>
+    <li><strong>Headless CMS Integration:</strong> Skilled in implementing <strong>Strapi, Sanity, and Contentful</strong>, optimizing content management with GraphQL/REST APIs.</li>
+    <li><strong>Performance & SEO Optimization:</strong> Expertise in <strong>SSR, ISR, lazy loading, and caching</strong> to enhance speed and search rankings.</li>
+    <li><strong>Scalable Deployments:</strong> Well-versed in <strong>Vercel, Netlify, and CI/CD workflows</strong> for seamless deployment and maintainability.</li>
   </ul>
   <br/>
-  I’m driven by the goal of delivering efficient, high-quality solutions. Whether it's a custom web application or a fully responsive website, I’m excited to help bring your vision to life!
+  I am passionate about delivering <strong>secure, high-quality, and efficient</strong> solutions that align with your vision. Let’s work together to build something exceptional!
 </p>
+
 
 
 <div style="text-align: center;">
