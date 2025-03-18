@@ -23,10 +23,13 @@
   <img src="https://i.ibb.co/517DLYm/mern.jpg" alt="Banner" style="width: 100%; max-width: 800px;"/>
 </div>
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
+
+
 ## Overall in GitHub 
 <div style="text-align: center; padding: 20px;">
   <a href="https://git.io/streak-stats" target="_blank">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=RakibHassanSoft&theme=vue-dark" alt="GitHub Streak" style="width: 100%;"/>
+    <img src="https://streak-stats.demolab.com/?user=RakibHassanSoft&theme=vue-dark" alt="GitHub Streak" style="width: 100%;"/>
   </a>
 </div>
 
