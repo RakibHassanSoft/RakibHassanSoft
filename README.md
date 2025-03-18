@@ -25,11 +25,13 @@
 
 
 
+
+
 ## Overall in GitHub  
 
 <div style="display: flex; justify-content: center; align-items: center; padding: 20px;">
-  <a href="https://github-readme-streak-stats.herokuapp.com?user=RakibHassanSoft&theme=vue-dark" target="_blank">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=RakibHassanSoft&theme=vue-dark" alt="GitHub Streak" style="max-width: 100%; height: auto;"/>
+  <a href="https://streak-stats.demolab.com/?user=RakibHassanSoft&theme=vue-dark" target="_blank">
+    <img src="https://streak-stats.demolab.com/?user=RakibHassanSoft&theme=vue-dark" alt="GitHub Streak" style="max-width: 100%; height: auto;"/>
   </a>
 </div>
 
