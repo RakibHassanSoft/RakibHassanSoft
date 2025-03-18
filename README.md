@@ -101,30 +101,30 @@
   </a>
 </div>
 
-### P4U (Product Selling Platform using MERN)
+### Career Canvas (Selling Platform using MERN)
 <p style="text-align: center; font-size: 1em;">
   Implemented a responsive product catalog with tag-based searching that dynamically displays matching tags as the user types, similar to Google search. Integrated payment gateways like Stripe and SSL.
 </p>
 <div style="text-align: center;">
-  <a href="https://effulgent-platypus-036e0d.netlify.app/" target="_blank">
+  <a href="https://career-canvas365.netlify.app/" target="_blank">
     <button style="padding: 10px 20px; background-color: #4CAF50; color: white; border: none; cursor: pointer;">Live Link</button>
   </a>
    <br/>
-  <a href="https://github.com/RakibHassanSoft/Product4u" target="_blank">
+  <a href="https://github.com/RakibHassanSoft/career-canvas-client.git" target="_blank">
     <button style="padding: 10px 20px; background-color: #333; color: white; border: none; cursor: pointer;">GitHub Link</button>
   </a>
 </div>
 
-### Art and Craft (Art and Craft Website using MERN)
+### IT Support website
 <p style="text-align: center; font-size: 1em;">
-  Developed customizable product listings with interactive image galleries, ensuring an engaging and user-friendly experience. Featured artist profiles alongside their portfolios for an artistic presentation.
+MERN & Video Editing IT Support Website provides comprehensive technical support and services for web development and video editing needs. We specialize in MERN (MongoDB, Express.js, React.js, Node.js) stack development and professional video editing, ensuring high-quality solutions for businesses, creators, and individuals.
 </p>
 <div style="text-align: center;">
-  <a href="https://delightful-nougat-f2595c.netlify.app/" target="_blank">
+  <a href="https://effortless-axolotl-520cbe.netlify.app/" target="_blank">
     <button style="padding: 10px 20px; background-color: #4CAF50; color: white; border: none; cursor: pointer;">Live Link</button>
   </a>
    <br/>
-  <a href="https://github.com/RakibHassanSoft/Artist_website" target="_blank">
+  <a href="https://github.com/RakibHassanSoft/fastestCreators-client" target="_blank">
     <button style="padding: 10px 20px; background-color: #333; color: white; border: none; cursor: pointer;">GitHub Link</button>
   </a>
 </div>
