@@ -29,9 +29,10 @@
 
 ## Overall in GitHub  
 
-<a href="https://git.io/streak-stats" target="_blank">
-  <img src="https://streak-stats.demolab.com?user=RakibHassanSoft&theme=vue-dark" alt="GitHub Streak" style="max-width: 100%; height: auto; display: block; margin: auto;" />
+<a href="https://github-readme-streak-stats.herokuapp.com?user=RakibHassanSoft">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=RakibHassanSoft" alt="GitHub Streak" />
 </a>
+
 
 
 
