@@ -29,11 +29,9 @@
 
 ## Overall in GitHub  
 
-<div style="display: flex; justify-content: center; align-items: center; padding: 20px;">
-  <a href="https://streak-stats.demolab.com/?user=RakibHassanSoft&theme=vue-dark" target="_blank">
-    <img src="https://streak-stats.demolab.com/?user=RakibHassanSoft&theme=vue-dark" alt="GitHub Streak" style="max-width: 100%; height: auto;"/>
-  </a>
-</div>
+<a href="https://git.io/streak-stats" target="_blank">
+  <img src="https://streak-stats.demolab.com?user=RakibHassanSoft&theme=vue-dark" alt="GitHub Streak" style="max-width: 100%; height: auto; display: block; margin: auto;" />
+</a>
 
 
 
