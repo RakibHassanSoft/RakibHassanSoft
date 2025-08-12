@@ -11,7 +11,7 @@
     <li><strong>Mobile Development:</strong> Skilled in <strong>React Native</strong> and <strong>Expo</strong> for building smooth, cross-platform apps on iOS and Android.</li>
     <li><strong>Powerful Backend Systems:</strong> Experienced with <strong>Node.js, Express.js, MongoDB, MySQL, and REST APIs</strong>, as well as <strong>Spring Boot</strong> and <strong>Django</strong> for enterprise-grade applications.</li>
     <li><strong>Authentication & Security:</strong> Implementing secure login flows using <strong>JWT, OAuth, session-based auth</strong>, with best practices in validation and encryption.</li>
-    <li><strong>Deployment & DevOps:</strong> Proficient in <strong>Vercel, Netlify, Railway, Docker</strong>, and setting up <strong>CI/CD pipelines</strong> for smooth production delivery.</li>
+    <li><strong>Deployment & DevOps:</strong> Proficient in <strong>Vercel, Netlify, Railway, Docker</strong> for smooth production delivery.</li>
   </ul>
   <br/>
   I focus on delivering <strong>secure, maintainable, and production-ready</strong> solutions — always optimized for performance, scalability, and real-world usage. Let’s connect and build something exceptional!
