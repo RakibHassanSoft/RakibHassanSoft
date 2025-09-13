@@ -1,169 +1,105 @@
-<h1  style="text-align: center; "> Rakib hassan<h1> 
+<h1 align="center">
+  🌟 Rakib Hassan 🌟  
+</h1>
 
-## About Me
-
-<p style="text-align: center; font-size: 1.2em; line-height: 1.6;">
-  I’m Rakib, a full-stack developer with deep experience in building scalable, high-performance web and mobile applications. I specialize in the <strong>MERN stack</strong>, cross-platform apps with <strong>React Native</strong>, and robust backend systems using <strong>Node.js, Django, and Spring Boot</strong>.
-  <br/><br/>
-  Here's what I bring to the table:
-  <ul style="text-align: left; margin-left: 2rem; line-height: 1.8;">
-    <li><strong>Frontend Mastery:</strong> Expert in <strong>React.js, Next.js, TypeScript, and Tailwind CSS</strong> — delivering fast, intuitive, and pixel-perfect UI/UX experiences.</li>
-    <li><strong>Mobile Development:</strong> Skilled in <strong>React Native</strong> and <strong>Expo</strong> for building smooth, cross-platform apps on iOS and Android.</li>
-    <li><strong>Powerful Backend Systems:</strong> Experienced with <strong>Node.js, Express.js, MongoDB, MySQL, and REST APIs</strong>, as well as  <strong>Django</strong> for enterprise-grade applications.</li>
-    <li><strong>Authentication & Security:</strong> Implementing secure login flows using <strong>JWT, OAuth, session-based auth</strong>, with best practices in validation and encryption.</li>
-    <li><strong>Deployment :</strong> Proficient in <strong>Vercel, Netlify, Railway, Docker</strong> for smooth production delivery.</li>
-  </ul>
-  <br/>
-  I focus on delivering <strong>secure, maintainable, and production-ready</strong> solutions — always optimized for performance, scalability, and real-world usage. Let’s connect and build something exceptional!
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=00FF99&center=true&vCenter=true&lines=Full+Stack+Developer;MERN+%7C+React+Native+%7C+Spring+Boot;Clean+Code+%7C+Scalable+Apps;Always+Learning+New+Tech!"/>
 </p>
-
-
-
-
-<div style="text-align: center;">
-  <img src="https://i.ibb.co/517DLYm/mern.jpg" alt="Banner" style="width: 100%; max-width: 800px;"/>
-</div>
-
-
-
-
-
-## Overall in GitHub  
-
-<a href="https://github-readme-streak-stats.herokuapp.com?user=RakibHassanSoft">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=RakibHassanSoft" alt="GitHub Streak" />
-</a>
-
-
-
-
-
-
-## Skills
-
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; padding: 30px; border: 2px solid #ddd; border-radius: 15px; background-color: #f9f9f9; box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1); max-width: 1000px; margin: auto;">
-
-  <!-- Frontend -->
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" style="width: 150px; height: 60px;" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" style="width: 150px; height: 60px;" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" style="width: 150px; height: 60px;" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" style="width: 150px; height: 60px;" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" style="width: 150px; height: 60px;" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" style="width: 150px; height: 60px;" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" style="width: 150px; height: 60px;" />
-
-  <!-- Backend -->
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" style="width: 150px; height: 60px;" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" style="width: 150px; height: 60px;" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" style="width: 150px; height: 60px;" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" style="width: 150px; height: 60px;" />
-
-  <!-- Databases -->
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" style="width: 150px; height: 60px;" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" style="width: 150px; height: 60px;" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" style="width: 150px; height: 60px;" />
-
-  <!-- Tools -->
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" style="width: 150px; height: 60px;" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="width: 150px; height: 60px;" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" style="width: 150px; height: 60px;" />
-  
-  <!-- Programming Languages -->
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" style="width: 150px; height: 60px;" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" style="width: 150px; height: 60px;" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" style="width: 150px; height: 60px;" />
-
-</div>
-
-
-
-
 
 ---
 
-## Current Status
+## 🎨 About Me  
 
-### Competitive Programming
-<div style="text-align: center; padding: 20px;">
-  <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" style="width: 150px; height: 50px;"/>
-</div>
-
-### Web Development
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; padding: 20px;">
-  <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white" style="width: 150px; height: 50px;"/>
-  <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white" style="width: 150px; height: 50px;"/>
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" style="width: 150px; height: 50px;"/>
-  <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" style="width: 150px; height: 50px;"/>
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" style="width: 150px; height: 50px;"/>
-  <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" style="width: 150px; height: 50px;"/>
-  <img src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" style="width: 150px; height: 50px;"/>
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node-dot-js&logoColor=white" style="width: 150px; height: 50px;"/>
-  <img src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white" style="width: 150px; height: 50px;"/>
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" style="width: 150px; height: 50px;"/>
-  <img src="https://img.shields.io/badge/-Mongoose-800?style=flat-square&logo=mongoose&logoColor=white" style="width: 150px; height: 50px;"/>
-  <img src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white" style="width: 150px; height: 50px;"/>
-  <img src="https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" style="width: 150px; height: 50px;"/>
-</div>
-
-
-
-
----
-## Projects
-
-### Career Canvas (Selling Platform using MERN)
-<p style="text-align: center; font-size: 1em;">
-  Implemented a responsive product catalog with tag-based searching that dynamically displays matching tags as the user types, similar to Google search. Integrated payment gateways like Stripe and SSL.
+<p align="center" style="font-size: 1.2em; line-height: 1.6;">
+Hi, I’m <strong>Rakib</strong> — a passionate <strong>Full Stack Developer</strong> who builds <em>secure, scalable, and user-focused applications</em>.  
+I specialize in the <strong>MERN Stack</strong>, <strong>React Native</strong> for mobile, and <strong>Django / Spring Boot</strong> for robust backends.  
 </p>
-<div style="text-align: center;">
-  <a href="https://career-canvas365.netlify.app/" target="_blank">
-    <button style="padding: 10px 20px; background-color: #4CAF50; color: white; border: none; cursor: pointer;">Live Link</button>
-  </a>
-   <br/>
-  <a href="https://github.com/RakibHassanSoft/career-canvas-client.git" target="_blank">
-    <button style="padding: 10px 20px; background-color: #333; color: white; border: none; cursor: pointer;">GitHub Link</button>
-  </a>
-</div>
-
-### IT Support website
-<p style="text-align: center; font-size: 1em;">
-MERN & Video Editing IT Support Website provides comprehensive technical support and services for web development and video editing needs. We specialize in MERN (MongoDB, Express.js, React.js, Node.js) stack development and professional video editing, ensuring high-quality solutions for businesses, creators, and individuals.
-</p>
-<div style="text-align: center;">
-  <a href="https://fastestcreators.com/" target="_blank">
-    <button style="padding: 10px 20px; background-color: #4CAF50; color: white; border: none; cursor: pointer;">Live Link</button>
-  </a>
-   <br/>
-  <a href="https://github.com/RakibHassanSoft/fastestCreators-client" target="_blank">
-    <button style="padding: 10px 20px; background-color: #333; color: white; border: none; cursor: pointer;">GitHub Link</button>
-  </a>
-</div>
-
 
 ---
 
-## Contact
+## 🛠️ Tech Arsenal  
 
-<div style="text-align: center; padding: 20px;">
-  <a href="mailto:rakibulhass@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://www.linkedin.com/in/md-rakibul-islam-900203324/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/RakibHassanSoft">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
+<div align="center">
+
+### 🔹 Frontend  
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### 🔹 Backend  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+
+### 🔹 Databases  
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### 🔹 Tools & Platforms  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
 </div>
-
 
 ---
 
-## Fun Facts
-<p style="text-align: center; font-size: 1.2em; line-height: 1.6; color: #333;">
-  🌱 Currently deepening my expertise in advanced React and TypeScript concepts to build scalable applications.<br>
-  🎨 Passionate about designing intuitive and elegant UI/UX using modern tools like Tailwind CSS.<br>
-  📚 Committed to continuous learning through technical reading and experimenting with new technologies.<br>
-  🚴‍♂️ Enjoy cycling as a way to maintain balance and clear focus in both work and life.
+## 📊 GitHub Stats  
+
+<div align="center">
+
+![Rakib's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RakibHassanSoft&show_icons=true&theme=radical&count_private=true)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RakibHassanSoft&layout=compact&theme=tokyonight)  
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RakibHassanSoft&theme=highcontrast)  
+
+</div>
+
+---
+
+## 🚀 Featured Projects  
+
+### 🎨 Career Canvas (MERN Marketplace)  
+- Responsive **product catalog** with Google-like tag search.  
+- Integrated **Stripe & SSL payment gateway**.  
+
+👉 [🌐 Live Demo](https://career-canvas365.netlify.app/) | [💻 GitHub Repo](https://github.com/RakibHassanSoft/career-canvas-client.git)  
+
+---
+
+### 💻 IT Support Website (MERN + Video Editing)  
+- Technical support platform for **web development & video editing**.  
+- Scalable backend with MERN stack.  
+
+👉 [🌐 Live Demo](https://fastestcreators.com/) | [💻 GitHub Repo](https://github.com/RakibHassanSoft/fastestCreators-client)  
+
+---
+
+## 📬 Let’s Connect  
+
+<p align="center">
+  <a href="mailto:rakibulhass@gmail.com"><img src="https://img.shields.io/badge/Email-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/md-rakibul-islam-900203324/"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/RakibHassanSoft"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
+---
+
+## 🎯 Fun Facts  
+
+<p align="center">
+🌱 Currently learning **advanced React & TypeScript**. <br/>  
+🎨 Love designing smooth & modern UI with Tailwind. <br/>  
+📚 Always exploring new tech through projects. <br/>  
+🚴 Cycling keeps me focused & creative!  
+</p>
+
+---
