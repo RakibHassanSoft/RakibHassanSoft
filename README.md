@@ -3,19 +3,22 @@
 </h1>  
 
 <p align="center">  
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=00FFAA&center=true&vCenter=true&width=550&lines=🚀+Full+Stack+Developer;⚡+MERN+%7C+React+Native+%7C+Spring+Boot;🛠️+Clean+Code+%7C+Scalable+Apps;📚+Always+Learning+New+Tech!" />  
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=00FFAA&center=true&vCenter=true&width=550&lines=🚀+Full+Stack+Developer;+MERN+%7C+React.js+next.js+%7C+nest.js+express.js;🛠️+Clean+Code+%7C+Scalable+Apps;📚+Always+Learning+New+Tech!" />  
 </p>  
 
 ---
-
 ## 🎨 About Me  
 
 <p align="center" style="font-size: 1.15em; line-height: 1.6;">  
-Hi, I’m <strong>Rakib</strong> — a passionate <strong>Full Stack Developer</strong> who loves building  
-<em>secure, scalable, and user-friendly applications</em>.  
 
-💻 Skilled in <strong>MERN Stack</strong>, <strong>React Native</strong> for mobile, and <strong>Django / Spring Boot</strong> for robust backends.  
-🚀 Always exploring new technologies & solving real-world problems with code.  
+👋 Hi, I’m <strong>Rakib</strong> — a passionate <strong>Full-Stack Developer</strong> with 3+ years of experience building  
+modern, secure, and scalable applications for both web and mobile.  
+
+💡 I help businesses and startups transform their ideas into <em>real, user-friendly products</em> by writing  
+<strong>clean, maintainable code</strong> and focusing on <strong>performance, security, and scalability</strong>.  
+Whether it’s a simple MVP or a complex enterprise platform, I aim to deliver solutions  
+that create real impact.  
+
 </p>  
 
 ---
