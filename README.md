@@ -5,7 +5,7 @@
 <p align="center">  
   <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=00FFAA&center=true&vCenter=true&width=550&lines=🚀+Full+Stack+Developer;+MERN+%7C+React.js+next.js+%7C+nest.js+express.js;🛠️+Clean+Code+%7C+Scalable+Apps;📚+Always+Learning+New+Tech!" />  
 </p>  
-/*
+
 ## 🎨 About Me  
 
 👋 Hi, I’m Rakib — a dedicated Full-Stack Developer with 3+ years of experience 
