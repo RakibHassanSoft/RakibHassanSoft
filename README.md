@@ -5,23 +5,36 @@
 <p align="center">  
   <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=00FFAA&center=true&vCenter=true&width=550&lines=🚀+Full+Stack+Developer;+MERN+%7C+React.js+next.js+%7C+nest.js+express.js;🛠️+Clean+Code+%7C+Scalable+Apps;📚+Always+Learning+New+Tech!" />  
 </p>  
-
----
+/*
 ## 🎨 About Me  
 
-<p align="center" style="font-size: 1.15em; line-height: 1.6;">  
+👋 Hi, I’m Rakib — a dedicated Full-Stack Developer with 3+ years of experience 
+crafting modern, scalable, and secure applications across web and mobile platforms.  
 
-👋 Hi, I’m <strong>Rakib</strong> — a passionate <strong>Full-Stack Developer</strong> with 3+ years of experience building  
-modern, secure, and scalable applications for both web and mobile.  
+🚀 My journey in development started with curiosity about how the web works, 
+and over the years, I’ve transformed that passion into building real-world 
+applications that are fast, reliable, and user-friendly. 
+I thrive at the intersection of frontend elegance and backend efficiency, 
+ensuring every product I work on delivers seamless user experiences.  
 
-💡 I help businesses and startups transform their ideas into <em>real, user-friendly products</em> by writing  
-<strong>clean, maintainable code</strong> and focusing on <strong>performance, security, and scalability</strong>.  
-Whether it’s a simple MVP or a complex enterprise platform, I aim to deliver solutions  
-that create real impact.  
+💡 I specialize in turning complex business ideas into scalable digital solutions. 
+From brainstorming and system design to clean implementation and deployment, I focus on:  
+- Writing clean, maintainable, and testable code.  
+- Building secure systems with role-based authentication and data protection.  
+- Optimizing for performance, scalability, and cost-effectiveness.  
+- Delivering responsive and accessible UI/UX across devices.  
 
-</p>  
+🔨 Tech Stack Expertise:  
+I’m well-versed in modern technologies like React, Next.js, Node.js, Express, 
+TypeScript, MongoDB, PostgreSQL, Firebase, and Tailwind CSS. 
+I also have experience in system design, microservices, and REST/GraphQL APIs, 
+giving me the ability to handle both MVP builds and large-scale enterprise platforms.  
 
----
+📞 I’m always open for a call or message to discuss projects, 
+collaborations, or interview opportunities. 
+Let’s connect and build something meaningful together.  
+
+
 
 ## 🛠️ Tech Stack  
 
