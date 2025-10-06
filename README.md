@@ -8,7 +8,7 @@
 
 ## 🎨 About Me  
 
-👋 Hi, I’m Rakib — a dedicated Full-Stack Developer with 3+ years of experience 
+👋 Hi, I’m Rakib  a dedicated Full-Stack Developer with 3+ years of experience 
 crafting modern, scalable, and secure applications across web and mobile platforms.  
 
 🚀 My journey in development started with curiosity about how the web works, 
