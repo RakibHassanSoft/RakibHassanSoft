@@ -1,85 +1,102 @@
-<h1 align="center">MD Rakibul Islam</h1>
+<!-- ================= HERO BANNER ================= -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:00c896&height=220&section=header&text=MD%20Rakibul%20Islam&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
+</p>
+
+<!-- ================= PROFILE IMAGE ================= -->
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/RakibHassanSoft" width="140" style="border-radius:50%" />
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00C896&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+%7C+Next.js+%7C+NestJS;Backend+%7C+Frontend+%7C+System+Design;AI+%7C+Automation+%7C+Scalable+Apps" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=2800&color=00C896&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+%7C+Next.js+%7C+NestJS;Scalable+Backend+Architect;AI+%7C+Automation+Engineer" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-Full Stack Developer focused on building **scalable, maintainable, and production-ready web applications**.
+I am a **Full Stack Developer** focused on building **scalable, production-ready applications**.
 
-I specialize in designing and developing:
-- Modern frontend applications (React, Next.js)
-- Scalable backend systems (Node.js, NestJS)
-- REST APIs and authentication systems
-- AI-integrated and automation-based solutions
-- Clean architecture and modular codebases
+I specialize in designing systems that are:
+- ⚙️ Modular and maintainable
+- 🚀 Performance optimized
+- 🔐 Secure and scalable
+- 🧠 AI-integrated and automation-driven
 
-I focus on writing **clean code, reusable components, and performance-optimized systems**.
+My focus is on **real-world engineering, not just UI development**.
 
 ---
 
 ## ⚙️ Tech Stack
 
-### Frontend
-React • Next.js • TypeScript • Tailwind CSS • JavaScript
+### 🖥️ Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind" />
+</p>
 
-### Backend
-Node.js • Express.js • NestJS • REST APIs • Authentication (JWT)
+### 🔧 Backend
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" />
+</p>
 
-### Database
-MongoDB • PostgreSQL • Firebase
+### 🗄️ Database
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,postgresql,firebase" />
+</p>
 
-### Tools & DevOps
-Git • GitHub • Docker • Postman • Vercel • Netlify
+### ☁️ Tools & DevOps
+<p>
+<img src="https://skillicons.dev/icons?i=docker,git,github,vercel,postman" />
+</p>
 
-### AI & Automation
-OpenAI GPT • Gemini API • Claude • Apify (Automation & Scraping)
+### 🤖 AI & Automation
+<p>
+<img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+🧠 OpenAI GPT • Google Gemini • Claude • Apify Automation
 
 ---
 
-## 🧠 Core Skills
+## 🧠 Core Engineering Skills
 
-- System Design (Basic → Intermediate)
-- Scalable API Architecture
-- Microservice-style backend structuring
-- Authentication & Authorization systems
+- System Design (Scalable backend architecture)
+- REST API & Authentication systems (JWT, OAuth basics)
+- Microservice-style backend structure
 - Performance optimization
-- API integration & automation workflows
+- Clean code & reusable architecture
+- AI + automation integration
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🧠 Career Canvas
-Full-stack marketplace platform with search and payment integration.
-
-- MERN stack application
-- Stripe / SSLCommerz payment integration
-- Tag-based search system
-- Responsive UI/UX
-
-Live: https://career-canvas365.netlify.app/  
-Repo: https://github.com/RakibHassanSoft/career-canvas-client.git  
-
----
-
-### ⚙️ Fastest Creators
-Service-based platform for web development and digital services.
+### 🧠 Career Canvas (Marketplace Platform)
 
 - Full-stack MERN application
-- Role-based backend system
-- Scalable API architecture
-- Modern frontend design
+- Tag-based intelligent search system
+- Payment integration (Stripe / SSLCommerz)
+- Responsive UI with optimized UX
 
-Live: https://fastestcreators.com/  
-Repo: https://github.com/RakibHassanSoft/fastestCreators-client  
+🔗 Live: https://career-canvas365.netlify.app/  
+🔗 Repo: https://github.com/RakibHassanSoft/career-canvas-client.git  
 
 ---
 
-## 📊 GitHub Stats
+### ⚙️ Fastest Creators (Service Platform)
+
+- Role-based backend system
+- Scalable REST API architecture
+- Modern UI/UX system
+- Service management platform
+
+🔗 Live: https://fastestcreators.com/  
+🔗 Repo: https://github.com/RakibHassanSoft/fastestCreators-client  
+
+---
+
+## 📊 GitHub Analytics
 
 <p align="center">
 
@@ -95,37 +112,40 @@ Repo: https://github.com/RakibHassanSoft/fastestCreators-client
 
 ---
 
-## 🔌 Integrations
+## 🔌 Integrations & Tools
 
-- AI APIs (OpenAI, Gemini, Claude)
-- Apify automation & scraping systems
-- Payment gateways (Stripe, SSLCommerz)
-- REST API integrations
-- Authentication systems (JWT, OAuth basics)
-- Third-party services & tools
+- OpenAI GPT APIs
+- Google Gemini APIs
+- Claude AI systems
+- Apify automation pipelines
+- Stripe / SSLCommerz payments
+- REST & third-party APIs
+- JWT authentication systems
 
 ---
 
-## 📬 Contact
+## 📬 Connect With Me
 
 <p align="center">
+
 <a href="mailto:rakibulhass@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/md-rakibul-islam-900203324/">
-<img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/RakibHassanSoft">
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
 </p>
 
 ---
 
-## 🧩 Philosophy
+## 🧩 Engineering Philosophy
 
-> Focus on building systems that are **simple, scalable, and maintainable** rather than overly complex solutions.
+> “I build systems that are scalable, maintainable, and production-ready — not just applications that look good.”
 
----****
+---
