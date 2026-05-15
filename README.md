@@ -1,109 +1,87 @@
 <h1 align="center">  
-✨ MD Rakibul islam ✨  
+MD Rakibul Islam  
 </h1>  
 
 <p align="center">  
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=00FFAA&center=true&vCenter=true&width=550&lines=🚀+Full+Stack+Developer;+MERN+%7C+React.js+next.js+%7C+nest.js+express.js;🛠️+Clean+Code+%7C+Scalable+Apps;📚+Always+Learning+New+Tech!" />  
-</p>  
-
-## 🎨 About Me  
-
-👋 Hi, I’m Rakib  a dedicated Full-Stack Developer with 3+ years of experience 
-crafting modern, scalable, and secure applications across web and mobile platforms.  
-
-🚀 My journey in development started with curiosity about how the web works, 
-and over the years, I’ve transformed that passion into building real-world 
-applications that are fast, reliable, and user-friendly. 
-I thrive at the intersection of frontend elegance and backend efficiency, 
-ensuring every product I work on delivers seamless user experiences.  
-
-💡 I specialize in turning complex business ideas into scalable digital solutions. 
-From brainstorming and system design to clean implementation and deployment, I focus on:  
-- Writing clean, maintainable, and testable code.  
-- Building secure systems with role-based authentication and data protection.  
-- Optimizing for performance, scalability, and cost-effectiveness.  
-- Delivering responsive and accessible UI/UX across devices.  
-
-🔨 Tech Stack Expertise:  
-I’m well-versed in modern technologies like React, Next.js, Node.js, Express, 
-TypeScript, MongoDB, PostgreSQL, Firebase, and Tailwind CSS. 
-I also have experience in system design, microservices, and REST/GraphQL APIs, 
-giving me the ability to handle both MVP builds and large-scale enterprise platforms.  
-
-📞 I’m always open for a call or message to discuss projects, 
-collaborations, or interview opportunities. 
-Let’s connect and build something meaningful together.  
-
-
-
-## 🛠️ Tech Stack  
-
-<div align="center">  
-
-| 🎨 Frontend | ⚙️ Backend | 🗄️ Databases | 🛠️ Tools & Platforms |
-|-------------|------------|--------------|----------------------|
-| ![HTML](https://img.shields.io/badge/HTML-FF5733?style=for-the-badge&logo=html5&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F14E32?style=for-the-badge&logo=git&logoColor=white) |
-| ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white) | ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white) | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) |
-| ![JavaScript](https://img.shields.io/badge/JavaScript-F7E018?style=for-the-badge&logo=javascript&logoColor=black) | ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) |
-| ![TypeScript](https://img.shields.io/badge/TypeScript-2F74C0?style=for-the-badge&logo=typescript&logoColor=white)  | ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) | ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white) |
-| ![React](https://img.shields.io/badge/React-00D8FF?style=for-the-badge&logo=react&logoColor=black) |  |  |  |
-| ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) |  |  |  |
-| ![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white) |  |  |  |
-
-</div>  
-
-
----
-
-## 📊 GitHub Stats  
-
-<div align="center">  
-
-![Rakib's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RakibHassanSoft&show_icons=true&theme=radical&count_private=true)  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RakibHassanSoft&layout=compact&theme=tokyonight)  
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RakibHassanSoft&theme=highcontrast)  
-
-</div>  
-
----
-
-## 🚀 Featured Projects  
-
-### 🎨 Career Canvas (MERN Marketplace)  
-- Responsive **product catalog** with Google-like tag search.  
-- Integrated **Stripe & SSL payment gateway**.  
-
-👉 [🌐 Live Demo](https://career-canvas365.netlify.app/) | [💻 GitHub Repo](https://github.com/RakibHassanSoft/career-canvas-client.git)  
-
----
-
-### 💻 IT Support Website (MERN + Video Editing)  
-- Technical support platform for **web development & video editing**.  
-- Scalable backend with MERN stack.  
-
-👉 [🌐 Live Demo](https://fastestcreators.com/) | [💻 GitHub Repo](https://github.com/RakibHassanSoft/fastestCreators-client)  
-
----
-
-## 📬 Connect With Me  
-
-<p align="center">  
-  <a href="mailto:rakibulhass@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>  
-  <a href="https://www.linkedin.com/in/md-rakibul-islam-900203324/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>  
-  <a href="https://github.com/RakibHassanSoft"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>  
+<img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3500&color=00FFAA&center=true&vCenter=true&width=650&lines=Senior+Full+Stack+Engineer;MERN+%7C+Next.js+%7C+NestJS+%7C+System+Design;AI+%7C+Automation+%7C+Scalable+Backend+Architectures;Clean+Code+%7C+Production+Ready+Systems" />  
 </p>  
 
 ---
 
-## 🎯 Fun Facts  
+## 🧠 Engineering Summary
 
-<p align="center">  
-🌱 Currently learning **advanced React & TypeScript**. <br/>  
-🎨 Love designing smooth & modern UI with Tailwind. <br/>  
-📚 Always exploring new tech through projects. <br/>  
-🚴 Cycling keeps me focused & creative!  
-</p>  
+I am a **Full-Stack Software Engineer** focused on building **scalable, production-grade applications** with modern web technologies.
+
+I specialize in:
+- Distributed backend systems and API design  
+- High-performance frontend architecture  
+- AI-powered automation workflows  
+- Clean, maintainable, and test-driven codebases  
+- Scalable system design (MVP → Enterprise level)
+
+I approach development like a product engineer — balancing **performance, usability, and scalability**.
 
 ---
+
+## ⚙️ Core Engineering Stack
+
+### 🖥️ Frontend Engineering
+- React.js, Next.js (SSR / CSR / ISR)
+- TypeScript, Tailwind CSS
+- Performance optimization (lazy loading, memoization, bundle splitting)
+
+### 🔧 Backend Engineering
+- Node.js, Express.js, NestJS
+- REST APIs & GraphQL APIs
+- Authentication (JWT, OAuth2, Role-based systems)
+- Microservices architecture (basic → intermediate level)
+
+### 🗄️ Databases & Data Layer
+- MongoDB (Mongoose)
+- PostgreSQL (Prisma / raw SQL)
+- Redis (caching & session handling concepts)
+
+### ☁️ DevOps & Cloud
+- Docker containerization
+- Vercel / Netlify deployments
+- CI/CD fundamentals
+- Environment scaling strategies
+
+---
+
+## 🤖 AI & Automation Engineering
+
+I build intelligent systems using:
+
+- OpenAI GPT (LLM-powered apps)
+- Google Gemini API integration
+- Anthropic Claude workflows
+- Apify automation & scraping pipelines
+- AI-assisted backend services
+- Workflow automation bots
+
+> Focus: turning manual processes into automated, intelligent systems.
+
+---
+
+## 🧱 System Design Capabilities
+
+- Scalable REST API architecture
+- Modular backend structure (feature-based design)
+- Load-aware API design principles
+- Separation of concerns (Controller → Service → Repository)
+- Stateless authentication systems
+- Scalable frontend architecture (component-driven design)
+
+---
+
+## 🛠️ Tech Stack Overview
+
+```text
+Languages:        JavaScript | TypeScript | Python (basic)
+Frontend:         React | Next.js | Tailwind CSS
+Backend:          Node.js | Express | NestJS
+Database:         MongoDB | PostgreSQL
+Tools:            Git | Docker | Postman | Apify
+AI Tools:         GPT | Gemini | Claude
+Cloud:            Vercel | Firebase | Basic AWS
