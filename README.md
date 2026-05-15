@@ -1,143 +1,146 @@
-<!-- ================= HERO BANNER ================= -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:00c896&height=220&section=header&text=MD%20Rakibul%20Islam&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
-</p>
 
-<!-- ================= PROFILE IMAGE ================= -->
+<!-- ================= HEADER ================= -->
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/RakibHassanSoft" width="140" style="border-radius:50%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:0a2e1f&height=140&section=header&text=MD%20Rakibul%20Islam&fontSize=36&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=2800&color=00C896&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+%7C+Next.js+%7C+NestJS;Scalable+Backend+Architect;AI+%7C+Automation+Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=18&duration=3000&color=00C896&center=true&vCenter=true&width=700&lines=Senior+Full+Stack+Engineer;Scalable+Systems+%7C+Backend+Architecture+%7C+AI+Integration;React+%7C+Next.js+%7C+NestJS+%7C+Node.js" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
-
-I am a **Full Stack Developer** focused on building **scalable, production-ready applications**.
-
-I specialize in designing systems that are:
-- ⚙️ Modular and maintainable
-- 🚀 Performance optimized
-- 🔐 Secure and scalable
-- 🧠 AI-integrated and automation-driven
-
-My focus is on **real-world engineering, not just UI development**.
+<!-- ================= PROFILE ================= -->
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/RakibHassanSoft" width="110" style="border-radius:50%" />
+</p>
 
 ---
 
-## ⚙️ Tech Stack
+## 👨‍💻 Profile
 
-### 🖥️ Frontend
+Full Stack Engineer focused on **engineering scalable, production-grade systems**.
+
+I design and build applications with emphasis on:
+
+- Clean system architecture
+- Scalable backend design
+- Performance-first frontend engineering
+- Secure authentication systems
+- AI + automation-driven workflows
+
+I approach software as **system design first, implementation second**.
+
+---
+
+## ⚙️ Technology Stack
+
+### Frontend Engineering
 <p>
 <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind" />
 </p>
 
-### 🔧 Backend
+### Backend Engineering
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" />
 </p>
 
-### 🗄️ Database
+### Data Layer
 <p>
 <img src="https://skillicons.dev/icons?i=mongodb,postgresql,firebase" />
 </p>
 
-### ☁️ Tools & DevOps
+### Infrastructure & Tools
 <p>
 <img src="https://skillicons.dev/icons?i=docker,git,github,vercel,postman" />
 </p>
 
-### 🤖 AI & Automation
-<p>
-<img src="https://skillicons.dev/icons?i=python" />
-</p>
-
-🧠 OpenAI GPT • Google Gemini • Claude • Apify Automation
+### AI & Automation
+OpenAI GPT • Gemini • Claude • Apify (Automation & Data Pipelines)
 
 ---
 
-## 🧠 Core Engineering Skills
+## 🧠 Engineering Focus Areas
 
-- System Design (Scalable backend architecture)
-- REST API & Authentication systems (JWT, OAuth basics)
-- Microservice-style backend structure
-- Performance optimization
-- Clean code & reusable architecture
-- AI + automation integration
+- Distributed system design (entry → intermediate level)
+- REST API architecture (modular + scalable)
+- Authentication & authorization systems (JWT-based)
+- Backend service separation (controller / service / repository)
+- Frontend architecture (component-driven systems)
+- AI integration into production applications
+- Automation pipelines & scraping systems
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Selected Work
 
-### 🧠 Career Canvas (Marketplace Platform)
+### Career Canvas — Marketplace System
+Full-stack scalable marketplace application.
 
-- Full-stack MERN application
-- Tag-based intelligent search system
+- Tag-based search engine
 - Payment integration (Stripe / SSLCommerz)
-- Responsive UI with optimized UX
+- Modular backend architecture
+- Optimized frontend UX flow
 
-🔗 Live: https://career-canvas365.netlify.app/  
-🔗 Repo: https://github.com/RakibHassanSoft/career-canvas-client.git  
+Live: https://career-canvas365.netlify.app/  
+Repo: https://github.com/RakibHassanSoft/career-canvas-client.git  
 
 ---
 
-### ⚙️ Fastest Creators (Service Platform)
+### Fastest Creators — Service Platform
+Service management platform for digital services.
 
-- Role-based backend system
+- Role-based access system
 - Scalable REST API architecture
-- Modern UI/UX system
-- Service management platform
+- Clean UI/UX system design
+- Production-ready backend structure
 
-🔗 Live: https://fastestcreators.com/  
-🔗 Repo: https://github.com/RakibHassanSoft/fastestCreators-client  
+Live: https://fastestcreators.com/  
+Repo: https://github.com/RakibHassanSoft/fastestCreators-client  
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 Engineering Metrics
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=RakibHassanSoft&show_icons=true&theme=radical" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=RakibHassanSoft&show_icons=true&theme=github_dark&hide_border=true" width="48%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RakibHassanSoft&layout=compact&theme=tokyonight" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RakibHassanSoft&layout=compact&theme=github_dark&hide_border=true" width="48%" />
 
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=RakibHassanSoft&theme=highcontrast" width="70%" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=RakibHassanSoft&theme=github-dark&hide_border=true" width="70%" />
 </p>
 
 ---
 
-## 🔌 Integrations & Tools
+## 🔌 System Integrations
 
-- OpenAI GPT APIs
-- Google Gemini APIs
-- Claude AI systems
+- OpenAI GPT / Gemini / Claude APIs
 - Apify automation pipelines
-- Stripe / SSLCommerz payments
-- REST & third-party APIs
+- Stripe / SSLCommerz payment systems
+- REST + third-party API integrations
 - JWT authentication systems
+- Cloud deployments (Vercel / Firebase)
 
 ---
 
-## 📬 Connect With Me
+## 📬 Contact
 
 <p align="center">
 
 <a href="mailto:rakibulhass@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/email-111111?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/md-rakibul-islam-900203324/">
-<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/linkedin-111111?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/RakibHassanSoft">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/github-111111?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </p>
@@ -146,6 +149,6 @@ My focus is on **real-world engineering, not just UI development**.
 
 ## 🧩 Engineering Philosophy
 
-> “I build systems that are scalable, maintainable, and production-ready — not just applications that look good.”
+> Build systems that are **simple, scalable, and maintainable** — not over-engineered, not fragile.
 
 ---
