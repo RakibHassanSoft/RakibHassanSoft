@@ -1,87 +1,91 @@
-<h1 align="center">  
-MD Rakibul Islam  
-</h1>  
+<!-- HERO BANNER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:00ff99&height=250&section=header&text=MD%20Rakibul%20Islam&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+</p>
 
-<p align="center">  
-<img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3500&color=00FFAA&center=true&vCenter=true&width=650&lines=Senior+Full+Stack+Engineer;MERN+%7C+Next.js+%7C+NestJS+%7C+System+Design;AI+%7C+Automation+%7C+Scalable+Backend+Architectures;Clean+Code+%7C+Production+Ready+Systems" />  
-</p>  
-
----
-
-## 🧠 Engineering Summary
-
-I am a **Full-Stack Software Engineer** focused on building **scalable, production-grade applications** with modern web technologies.
-
-I specialize in:
-- Distributed backend systems and API design  
-- High-performance frontend architecture  
-- AI-powered automation workflows  
-- Clean, maintainable, and test-driven codebases  
-- Scalable system design (MVP → Enterprise level)
-
-I approach development like a product engineer — balancing **performance, usability, and scalability**.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=00FFAA&center=true&vCenter=true&width=900&lines=Senior+Full+Stack+Engineer;MERN+%7C+Next.js+%7C+NestJS+Architect;AI+%7C+Automation+%7C+Scalable+Systems;Building+Production+Grade+Applications" />
+</p>
 
 ---
 
-## ⚙️ Core Engineering Stack
+## 🧠 About Me (Engineering Profile)
 
-### 🖥️ Frontend Engineering
-- React.js, Next.js (SSR / CSR / ISR)
-- TypeScript, Tailwind CSS
-- Performance optimization (lazy loading, memoization, bundle splitting)
+<table>
+<tr>
+<td width="60%">
 
-### 🔧 Backend Engineering
-- Node.js, Express.js, NestJS
-- REST APIs & GraphQL APIs
-- Authentication (JWT, OAuth2, Role-based systems)
-- Microservices architecture (basic → intermediate level)
+### 👨‍💻 Senior Full Stack Engineer
 
-### 🗄️ Databases & Data Layer
-- MongoDB (Mongoose)
-- PostgreSQL (Prisma / raw SQL)
-- Redis (caching & session handling concepts)
+I build **scalable, production-ready web systems** using modern architectures.
 
-### ☁️ DevOps & Cloud
-- Docker containerization
-- Vercel / Netlify deployments
-- CI/CD fundamentals
-- Environment scaling strategies
+- ⚙️ Backend Systems (Node.js / NestJS / Microservices)
+- 🎨 High-performance Frontend (React / Next.js)
+- 🤖 AI integrations (GPT, Gemini, Claude)
+- 🔌 Automation pipelines (Apify + scraping systems)
+- ☁️ Cloud deployment & scalable architectures
+
+💡 Focus: *turning complex ideas into scalable digital products*
+
+</td>
+
+<td width="40%">
+
+<img src="https://user-images.githubusercontent.com/placeholder/dev-working.gif" width="100%"/>
+
+</td>
+</tr>
+</table>
+
+---
+
+## ⚙️ Tech Stack (Production Level)
+
+<p align="center">
+
+### 🖥️ Frontend  
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind" />
+
+### 🔧 Backend  
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" />
+
+### 🗄️ Database  
+<img src="https://skillicons.dev/icons?i=mongodb,postgresql,firebase" />
+
+### ☁️ DevOps & Tools  
+<img src="https://skillicons.dev/icons?i=docker,git,github,vercel,postman" />
+
+</p>
 
 ---
 
 ## 🤖 AI & Automation Engineering
 
-I build intelligent systems using:
+<p align="center">
+<img src="https://user-images.githubusercontent.com/placeholder/ai-banner.gif" width="80%" />
+</p>
 
-- OpenAI GPT (LLM-powered apps)
-- Google Gemini API integration
-- Anthropic Claude workflows
-- Apify automation & scraping pipelines
-- AI-assisted backend services
-- Workflow automation bots
+### I build AI-powered systems using:
 
-> Focus: turning manual processes into automated, intelligent systems.
+- OpenAI GPT (LLM Applications)
+- Google Gemini API
+- Anthropic Claude
+- Apify Automation Pipelines
+- Intelligent backend workflows
 
----
-
-## 🧱 System Design Capabilities
-
-- Scalable REST API architecture
-- Modular backend structure (feature-based design)
-- Load-aware API design principles
-- Separation of concerns (Controller → Service → Repository)
-- Stateless authentication systems
-- Scalable frontend architecture (component-driven design)
+> 🚀 Automating real-world business workflows using AI systems
 
 ---
 
-## 🛠️ Tech Stack Overview
+## 🧱 System Architecture Thinking
 
 ```text
-Languages:        JavaScript | TypeScript | Python (basic)
-Frontend:         React | Next.js | Tailwind CSS
-Backend:          Node.js | Express | NestJS
-Database:         MongoDB | PostgreSQL
-Tools:            Git | Docker | Postman | Apify
-AI Tools:         GPT | Gemini | Claude
-Cloud:            Vercel | Firebase | Basic AWS
+Client Layer (React / Next.js)
+        ↓
+API Gateway (Express / NestJS)
+        ↓
+Service Layer (Business Logic)
+        ↓
+Database Layer (MongoDB / PostgreSQL)
+        ↓
+External APIs (AI / Payment / Scraping)
