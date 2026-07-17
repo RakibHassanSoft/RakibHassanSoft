@@ -1,3 +1,7 @@
+<!-- ================= HERO BANNER ================= --> 
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:00c896&height=220&section=header&text=MD%20Rakibul%20Islam&fontSize=42&fontColor=ffffff&animation=fadeIn"/> </p> 
+<!-- ================= PROFILE IMAGE ================= --> <p align="center"> <img src="https://avatars.githubusercontent.com/RakibHassanSoft" width="140" style="border-radius:50%" /> </p> <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=2800&color=00C896&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;MERN+%7C+Next.js+%7C+NestJS;Scalable+Backend+Architect;AI+%7C+Automation+Engineer" /> </p>
+
 <!-- ================= ABOUT ME ================= -->
 
 ## 👨‍💻 About Me
